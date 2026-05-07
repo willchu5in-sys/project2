@@ -345,6 +345,6 @@ If you have extra time, you should try out these other CSS properties.
 
 <!-- Forces markdown to properly nest ordered lists. -->
 <style type="text/css">
-    ol ol { list-style-type: upper-alpha; }
+       ol ol { list-style-type: upper-alpha; }
     ol ol ol { list-style-type: lower-alpha; }
 </style>
